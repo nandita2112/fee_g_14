@@ -1,43 +1,80 @@
-<hr></hr>
-<p align="center">
-  <samp>
-
-<h3 align="center">
-	<a href="https://md-shadab-azam-ansari.vercel.app/">Hi, I'm Nandita!</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> <a href="https://github.com/nandita2112/"> </a>
-<br/>
+<h1 align="center">Hi 👋, I'm Nandita</h1>
+<h3 align="center">B.Tech Computer Science Engineering Student</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Open%20Source%20|%20DevOps%20|%20Web+Development%20Enthusiastic;Always%20learning%20new%20things&center=true&width=640&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer;Python+Learner;Web+Development+Enthusiast;Always+Learning+New+Things" />
 </p>
-
-<h3>I'm a Software Engineer.</h3>
-
-* 🎓 B.Tech in Computer Science
-* 👀 Passionate about open source and programming (Node.JS, Python, JavaScript)
-* 💬 DevOps toolkit: Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · Ansible · AWS (EC2, S3, Lambda) · Prometheus · Grafana
-* 💞️ Seeking collaboration on open-source projects
-* 💡 Sharpening Java data structures & algorithms and DevOps expertise with Amazon Web Services.
-* 📚 Dedicated to continuous learning and growth
 
 ---
 
-<h2> 🥞 Tech Stack</h2>
+## 👩‍💻 About Me
+
+- 🎓 2nd Year B.Tech CSE Student
+- 💻 Learning **Java, Python, Data Structures & Algorithms**
+- 🌐 Exploring **Web Development**
+- 🚀 Currently improving my coding skills through projects
+- 📚 Interested in Software Development and AI
+- 🎯 Goal: Crack internships at top product-based companies
+
+---
+
+## 🛠 Tech Stack
+
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/nodejs-%23f2ca61.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind%20css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23e4626b.svg?style=for-the-badge&logo=figma&logoColor=140200"/>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,git,github,vscode,mysql" />
+
 </p>
 
-<br>
+---
 
-[![Nandita's GitHub stats](https://stats.quine.sh/Nandita/github)](https://quine.sh/profile/Nandita)
+## 📖 Currently Learning
+
+- Java Programming
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- Database Management System
+- Object Oriented Programming
+
+---
+
+## 🚀 Projects
+
+- 💻 Student Management System
+- 🌐 Personal Portfolio Website
+- 📊 College Mini Projects
+- 🤖 AI & Python Practice Projects
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandita2112&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nandita2112&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandita2112&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/nandita2112
+
+
+---
+
+⭐ Thanks for visiting my profile!
