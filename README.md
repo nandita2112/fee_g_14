@@ -48,28 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nandita2112&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nandita2112&theme=tokyonight"/>
-
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandita2112&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/nandita2112
